@@ -30,3 +30,4 @@ The testing will be done with Expecto
 ## The next few steps
 
 1. [Init a git repo](https://github.com/oelrich/oelrich.se.git) and start commiting updates.
+1. Create a document describing project set up.
